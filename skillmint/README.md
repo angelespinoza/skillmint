@@ -205,7 +205,6 @@ SkillMint connects with OpenClaw — an autonomous agent platform running bots o
 
 ## Team
 
-**Angel Espinoza** — CEO, Ande Studio  
-angel@ande.studio · Lima, Perú · https://ande.studio
+**Angel Espinoza** — 
 
 *Built for Avalanche — Aleph Hackathon · March 2026*
