@@ -1,0 +1,24 @@
+# Environment files - NEVER commit these
+.env
+.env.local
+.env.production
+*/.env
+*/.env.local
+frontend/.env.local
+backend/.env
+
+# Dependencies
+node_modules
+*/node_modules
+
+# Next.js
+frontend/.next
+frontend/out
+
+# Build artifacts
+dist
+build
+
+# Logs
+*.log
+npm-debug.log*
